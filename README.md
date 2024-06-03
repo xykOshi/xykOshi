@@ -29,6 +29,10 @@
  <h2>📊 VRChat Database Statistics</h2>
    <p>Updates every 72 hours if statistics change</p>
      <p>VRChat data harvesting methods are still in heavy development</p>
+      <p>- Current Harvesting Methods - </p>
+      <p>Non Instantiated Photon Clients</p>
+       <p>Websocket Event Watchers</p>
+        <p>VRCX SQLite Db File Extraction</p>
   <table>
     <thead>
       <tr>
